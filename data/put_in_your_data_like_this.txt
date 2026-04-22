@@ -1,0 +1,7 @@
+data/
+└── dataset/
+    └── wav_jjy/
+        ├── raw/          # 원본 녹음 (m4a, wav 등)
+        ├── wav/          # 전처리된 wav (16kHz, mono)
+        ├── metadata.txt  # audio_001.wav|텍스트
+        └── ref.wav       # 대표 음성 (클로닝용)
