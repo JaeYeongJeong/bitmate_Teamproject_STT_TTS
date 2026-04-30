@@ -1,4 +1,6 @@
-# Bitmate Team Project - STT · LLM · TTS
+
+
+# 타임캡슐보이스 - Bitmate Team Project
 
 저희는 평소 사람과의 대화를 당연하게 여기며 살아갑니다.  
 하지만 질병이나 사고로 목소리를 잃게 되면, 더 이상 대화를 이어갈 수 없게 됩니다.
@@ -12,6 +14,16 @@ Val Kilmer 역시 AI 기술로 자신의 목소리를 복원했습니다.
 
 저희는 이 문제에서 출발해,  
 **“그 사람의 목소리로 실제 대화하듯 소통하는 방법”**을 만들고자 합니다.
+
+---
+
+## 소개영상
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ZZcxW0X8DNi1wqsY7G9oIw28S4HqQlnB/view?usp=drive_link">
+    타임캡슐보이스 소개영상 
+  </a>
+</p>
 
 ---
 
