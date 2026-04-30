@@ -20,3 +20,5 @@ train_raw.jsonl
 train_with_codes.jsonl
 
 git_command.ipynb
+
+.gradio/

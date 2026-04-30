@@ -1,0 +1,26 @@
+# Core
+torch==2.10.0
+torchaudio==2.10.0
+transformers==4.57.3
+accelerate==1.12.0
+bitsandbytes==0.49.2
+safetensors==0.7.0
+
+# STT
+faster-whisper==1.2.1
+
+# Audio
+librosa==0.11.0
+soundfile==0.13.1
+ffmpeg-python
+
+# TTS
+qwen-tts==0.1.1
+
+# UI
+gradio==6.13.0
+
+# Utils
+numpy==2.0.2
+tqdm==4.67.3
+huggingface_hub==0.36.2
